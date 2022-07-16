@@ -1,0 +1,19 @@
+.body{
+    background-color: #000;
+    font-family:'monospace';   
+}
+
+#pongCanvas{
+    border: 1px solid white;
+    background-color: black;
+    width: 100%;
+    margin: auto;
+    display: block;
+    width: 1200px;
+    height: 550px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
