@@ -1,4 +1,4 @@
-# pong
+# Pong
 Pong. Because why not :)
 
 ## Future changes
